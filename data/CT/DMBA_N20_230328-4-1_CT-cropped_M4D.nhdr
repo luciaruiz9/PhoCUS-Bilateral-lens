@@ -1,0 +1,14 @@
+NRRD0004
+# This file written by nrrd civm class in matlab.
+# Complete NRRD file format specification at:
+# http://teem.sourceforge.net/nrrd/format.html
+type: uint16
+dimension: 3
+space: left-posterior-superior
+sizes: 501 696 374
+space directions: (-0.02501,0,0) (0,-0.02501,0) (0,0,0.02501)
+kinds: domain domain domain
+endian: little
+encoding: raw
+space origin: (6.07745,10.1804,-7.85472)
+data file: DMBA_N20_230328-4-1_CT-cropped_M4D.raw

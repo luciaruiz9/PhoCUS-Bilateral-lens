@@ -1,0 +1,19 @@
+# Raw CT scan payload (249 MB, over GitHub's 100 MB file limit) -- see README for
+# where to download it; keep the small .nhdr header, which is tracked.
+data/CT/*.raw
+
+# Not part of this repo's scope -- see README for what's included.
+/notebooks/Plot figures/
+/thesis presented simulations/
+
+# Python / Jupyter cruft
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Simulation run outputs (populated by running the notebooks) -- not tracked
+/results/
