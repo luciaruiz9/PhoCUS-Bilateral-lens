@@ -1,8 +1,9 @@
 # PhoCUS Bilateral Acoustic Lens
 
 A ring-structured acoustic holographic lens for the PhoCUS transducer that splits its
-single focused ultrasound beam into two spatially separated foci -- one per
-hippocampus -- for bilateral transcranial focused ultrasound in freely moving mice,
+single focused ultrasound beam into two spatially separated foci, one per
+hippocampus, for bilateral transcranial focused ultrasound in freely moving mice,
+
 without obstructing the transducer's central fibre-photometry cannula. Developed for
 an MSc thesis at Imperial College London.
 
